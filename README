@@ -1,0 +1,8 @@
+
+Written November 2011 by Josiah Carlson
+Copyright 2011 ChowNow LLC
+Released under the GNU LGPL v2.1 
+
+This project intends to include various utilities and functions for dealing
+with timezones in Python. This is not meant as a replacement for pytz, but as
+a useful add on.
