@@ -6,3 +6,15 @@ Released under the GNU LGPL v2.1
 This project intends to include various utilities and functions for dealing
 with timezones in Python. This is not meant as a replacement for pytz, but as
 a useful add on.
+
+
+The downloadable tz_world.zip contains the input .kml file to be used with the
+provided parsing utilities. It is the result of taking the tz_world shapefile
+from: http://efele.net/maps/tz/world/ and passing it through Shp2kml:
+http://www.zonums.com/shp2kml.html . This data was downloaded and originally
+processed in early November 2011.
+
+The operator of http://efele.net/maps/tz/world/ has waived all rights to the
+shapefiles, and we do the same to all downloads available:
+https://github.com/josiahcarlson/timezone-utils/downloads
+
