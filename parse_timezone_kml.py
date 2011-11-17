@@ -2,9 +2,9 @@
 from collections import defaultdict
 try:
     import simplejson as json
+    json # silence pyflakes
 except ImportError:
     import json
-import math
 from os import path
 import sys
 import time
